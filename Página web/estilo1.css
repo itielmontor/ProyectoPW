@@ -1,0 +1,83 @@
+body{
+	background-image: url(16.jpg);
+	-webkit-background-size: cover;
+	background-size:cover;
+	background-attachment:fixed;
+	color:white;
+}
+
+header{
+	width:95%;
+	background-color:#FFF38B;
+	margin:0px auto 0px;
+	color:#1C009F;
+	text-align:center;
+	font-size:42px;
+	font-family:"Bahnschrift Light";
+	padding:0.2px;
+	
+}
+
+section{
+	width:50%;
+	color:black;
+	font-size:20px;
+	margin-top:50px;
+	margin-left:0%;
+	font-family:"century gothic";
+	background:rgba(0,0,0,.2);
+	padding:20px;
+}
+aside{
+	width:20%;
+	text-align:center;
+	font-size:1cm;
+	border:none;
+	margin-left:230px;
+	margin-top:35px;
+	position:absolute;
+
+}
+section,aside{
+	display:inline-block;
+	
+}
+#contenido{ 
+		width:90%;
+		margin: 0px auto 0px;
+		color:white;
+}
+#Hespecial{
+		font-family:"century gothic";
+		font-size:25px;
+}
+
+a{
+	background-color:#00E9DD;
+	margin:1px;
+	color:black;
+	font-size:15px;
+	margin-left:60px;
+	margin-top:5px;
+	padding:10px 45px;
+	font-family:"century gothic";
+	box-shadow: 0px 5px 0px 1px #4969F5;
+	
+}
+a:hover{
+	box-shadow: 0px 2px 0px 0px #03F730;
+	background:#E993FF;
+	
+	
+}
+
+a:active{
+	box-shadow:none;
+}
+
+
+
+
+
+
+
